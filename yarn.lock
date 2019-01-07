@@ -437,40 +437,40 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@ng-toolkit/_utils@1.1.47", "@ng-toolkit/_utils@^1.1.47":
-  version "1.1.47"
-  resolved "https://registry.yarnpkg.com/@ng-toolkit/_utils/-/_utils-1.1.47.tgz#4272c2944a2f4a6815bd33d0b167c3462ffdb24e"
+"@ng-toolkit/_utils@1.1.50", "@ng-toolkit/_utils@^1.1.50":
+  version "1.1.50"
+  resolved "https://registry.yarnpkg.com/@ng-toolkit/_utils/-/_utils-1.1.50.tgz#caeeac00c626ee9656851cf2e9b7a182fe3547bb"
   dependencies:
     "@angular-devkit/core" "~7.0.0"
     "@angular-devkit/schematics" "~7.0.0"
     "@schematics/angular" "~7.0.0"
     bugsnag "^2.3.1"
 
-"@ng-toolkit/pwa@1.1.47":
-  version "1.1.47"
-  resolved "https://registry.yarnpkg.com/@ng-toolkit/pwa/-/pwa-1.1.47.tgz#35f489f45cdd4bc627b3542c9619b8b88f390866"
+"@ng-toolkit/pwa@1.1.50":
+  version "1.1.50"
+  resolved "https://registry.yarnpkg.com/@ng-toolkit/pwa/-/pwa-1.1.50.tgz#f9eb0a2b466c07d71a9f26318df132dd27efff00"
   dependencies:
-    "@ng-toolkit/_utils" "1.1.47"
+    "@ng-toolkit/_utils" "1.1.50"
     bugsnag "^2.4.2"
     tslib "^1.9.0"
 
-"@ng-toolkit/serverless@1.1.47":
-  version "1.1.47"
-  resolved "https://registry.yarnpkg.com/@ng-toolkit/serverless/-/serverless-1.1.47.tgz#a687b40a1bd1b05cdaa2f15c6b156434d82d53af"
+"@ng-toolkit/serverless@1.1.50":
+  version "1.1.50"
+  resolved "https://registry.yarnpkg.com/@ng-toolkit/serverless/-/serverless-1.1.50.tgz#4103390e79b048003316c214afb5c1d51c965d11"
   dependencies:
     "@angular-devkit/core" "~7.0.0"
     "@angular-devkit/schematics" "~7.0.0"
-    "@ng-toolkit/_utils" "^1.1.47"
+    "@ng-toolkit/_utils" "^1.1.50"
     "@schematics/angular" "~7.0.0"
     bugsnag "^2.3.1"
 
-"@ng-toolkit/universal@1.1.47":
-  version "1.1.47"
-  resolved "https://registry.yarnpkg.com/@ng-toolkit/universal/-/universal-1.1.47.tgz#20c9de2a1f5bb8ccbfc3a4cce9076ba378c81f8a"
+"@ng-toolkit/universal@1.1.50":
+  version "1.1.50"
+  resolved "https://registry.yarnpkg.com/@ng-toolkit/universal/-/universal-1.1.50.tgz#fc3d62ff2c01c40e1bc747bdd97dfe4b126e3266"
   dependencies:
-    "@ng-toolkit/_utils" "1.1.47"
-    "@ng-toolkit/pwa" "1.1.47"
-    "@ng-toolkit/serverless" "1.1.47"
+    "@ng-toolkit/_utils" "1.1.50"
+    "@ng-toolkit/pwa" "1.1.50"
+    "@ng-toolkit/serverless" "1.1.50"
     bugsnag "^2.4.2"
     tslib "^1.9.0"
 
